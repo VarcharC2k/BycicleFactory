@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32804.467
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VTMES3_RE", "VTMES3_RE\VTMES3_RE.csproj", "{F9657508-8863-4B72-93AA-12A40B703E18}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F9657508-8863-4B72-93AA-12A40B703E18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9657508-8863-4B72-93AA-12A40B703E18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9657508-8863-4B72-93AA-12A40B703E18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9657508-8863-4B72-93AA-12A40B703E18}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BE74C95A-14BE-48CC-BE60-2F65DE4A5DD6}
+		VisualSVNWorkingCopyRoot = .
+	EndGlobalSection
+EndGlobal
